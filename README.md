@@ -1,4 +1,4 @@
-# cricket
+# cricket APP
 The project is having cricket score board API and laravel and forntend in AngularJs
 
 Installation process-
